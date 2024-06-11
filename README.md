@@ -20,12 +20,7 @@ Devrede ki kompanentler seçilirken tek bir tedarikçiden temin edilebilimesine 
 ![IMU_SCH](https://github.com/sezear07/INTERNAL_MEASUREMENT_UNIT/assets/167361624/1fe740c9-da74-46e7-9002-64d0913661ff)
 
 PCB KATMANLARI
-1. SIG/PWR
-2. GND
-3. SIG
-4. PWR
-5. GND
-6. SIG/PWR
+1. SIG/PWR 2. GND 3. SIG 4. PWR 5. GND 6. SIG/PWR
 ![135](https://github.com/sezear07/INTERNAL_MEASUREMENT_UNIT/assets/167361624/f9a41476-2480-4ee3-9325-d8d7e96842c1)
 
 3D MODEL
