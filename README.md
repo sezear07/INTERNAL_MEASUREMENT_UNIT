@@ -19,4 +19,7 @@ Devrede ki kompanentler seçilirken tek bir tedarikçiden temin edilebilimesine 
 ŞEMATİK TASARIM
 ![IMU_SCH](https://github.com/sezear07/INTERNAL_MEASUREMENT_UNIT/assets/167361624/1fe740c9-da74-46e7-9002-64d0913661ff)
 
-STAJYER OLARAK YAPTIĞIM DEVREDEN, TAMAMEN FARKLI BİR KURULUMA SAHİPTİR! 
+PCB ARA KATMANLARI
+![layer](https://github.com/sezear07/INTERNAL_MEASUREMENT_UNIT/assets/167361624/a17d24f7-0b99-41d2-962f-8e0748af0b21)
+
+
