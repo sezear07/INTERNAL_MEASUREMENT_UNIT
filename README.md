@@ -19,7 +19,13 @@ Devrede ki kompanentler seçilirken tek bir tedarikçiden temin edilebilimesine 
 ŞEMATİK TASARIM
 ![IMU_SCH](https://github.com/sezear07/INTERNAL_MEASUREMENT_UNIT/assets/167361624/1fe740c9-da74-46e7-9002-64d0913661ff)
 
-PCB ARA KATMANLARI
+PCB KATMANLARI
+1. SIG/PWR
+2. GND
+3. SIG
+4. PWR
+5. GND
+6. SIG/PWR
 ![layer](https://github.com/sezear07/INTERNAL_MEASUREMENT_UNIT/assets/167361624/a17d24f7-0b99-41d2-962f-8e0748af0b21)
 
 3D MODEL
