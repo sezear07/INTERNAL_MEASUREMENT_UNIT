@@ -24,7 +24,8 @@ PCB KATMANLARI
 ![135](https://github.com/sezear07/INTERNAL_MEASUREMENT_UNIT/assets/167361624/f9a41476-2480-4ee3-9325-d8d7e96842c1)
 
 3D MODEL
-![3D_IMU](https://github.com/sezear07/INTERNAL_MEASUREMENT_UNIT/assets/167361624/3d4d433d-3d14-44a5-8485-8eb2bf3dccf6)
+![3D_MODEL](https://github.com/sezear07/INTERNAL_MEASUREMENT_UNIT/assets/167361624/2684bcb9-3fcc-4bff-83fc-bbea8788c34f)
+
 
 
 
