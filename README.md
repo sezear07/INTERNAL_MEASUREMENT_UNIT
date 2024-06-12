@@ -21,7 +21,7 @@ Devrede ki kompanentler seçilirken tek bir tedarikçiden temin edilebilimesine 
 
 PCB KATMANLARI
 1. SIG/PWR 2. GND 3. SIG 4. PWR 5. GND 6. SIG/PWR
-![135](https://github.com/sezear07/INTERNAL_MEASUREMENT_UNIT/assets/167361624/f9a41476-2480-4ee3-9325-d8d7e96842c1)
+![layer](https://github.com/sezear07/INTERNAL_MEASUREMENT_UNIT/assets/167361624/add0c5cb-f101-47dc-b7a6-7c90426cfe41)
 
 3D MODEL
 ![3D_MODEL](https://github.com/sezear07/INTERNAL_MEASUREMENT_UNIT/assets/167361624/2684bcb9-3fcc-4bff-83fc-bbea8788c34f)
