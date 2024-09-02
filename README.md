@@ -1,5 +1,5 @@
 Bu projede UAV ve bazı endüstriyel uygulamalarda kullanılması için IMU tasarlanmıştır. Projede amaç, tek PCB düzlemi ile FOG IMU (Fiber Optik Jiroskop İzleme Ünitesi) performansına yakın, ultra yüksek doğruluğa sahip bir MEMS IMU tasarlamaktır.
-Projenin şematik tasarımı tamamlanmış olup PCB tasarımı devam etmektedir.
+Projenin şematik ve PCB tasarımı yapılmıştır.
 Projede 3 eksende ivmeölçer, jiroskop ve manyetik sensör bulunmaktadır. 
 
 Projede ; 
